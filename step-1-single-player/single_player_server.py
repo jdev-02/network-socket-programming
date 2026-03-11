@@ -1,4 +1,4 @@
-#Jonathan Goohs
+#[author]
 #CS3502 Computer Communications and Networks Lab 1
 #Professor Xie
 

@@ -1,4 +1,4 @@
-#Jonathan Goohs
+#[author]
 #CS3502 Computer Communications and Networks Programming Project Step 3
 #Professor Xie
 
